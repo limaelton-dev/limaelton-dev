@@ -19,7 +19,7 @@
   <img align="center" alt="Elton-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Elton-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 
-  <img align="right" alt="Elton-pic" height="150" style="border-radius:50px;" src="https://mangatar.framiq.com/pt/salvar/?av=bg-037-000_bl-002-000_bt-027-000_eb-006-006_ey-054-000_fc-000-005_fh-013-006_ha-000-000_hr-004-006_mu-000-000_no-003-000_pt-005-012_sh-005-003&v=0">
+  <img align="right" alt="Elton-pic" height="150" style="border-radius:50px;" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=Brown&facialHairType=BeardMedium&facialHairColor=Brown&clotheType=Hoodie&clotheColor=Black&eyeType=Happy&eyebrowType=FlatNatural&mouthType=Smile&skinColor=Light">
 </div>
 
  ##
