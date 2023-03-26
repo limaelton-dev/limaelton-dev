@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/limaeltondev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=limaelton-dev&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=limaelton-dev&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&layout=compact&theme=react&theme=transparent&show_icons=true&bg_color=00000000"/>
 
  </div>
  
