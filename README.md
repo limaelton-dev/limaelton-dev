@@ -1,7 +1,6 @@
 ### Hello World! I'm Elton or... iCroud in games  👋😄
 
 - 🌱 I’m currently learning PHP and English
-- 🤔 I’m looking for help for a first opportunity as a developer
 - 📫 How to reach me: eltonlima.contato@gmail.com
 - 😄 Pronouns: He/Ele
 - ⚡ Fun fact: i love games but never owned a console
