@@ -1,6 +1,6 @@
 ### Hello World! I'm Elton or... iCroud in games  👋😄
 
-- 🌱 I’m currently learning LARAVEL
+- 🌱 I’m currently learning LARAVEL, and love it
 - 📫 How to reach me: eltonlima.contato@gmail.com
 - 😄 Pronouns: He/Ele
 - ⚡ Fun fact: i love games but never owned a console
