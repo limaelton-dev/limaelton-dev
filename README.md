@@ -1,4 +1,4 @@
-### Hello World! I'm Elton or... iCroud in games  👋😄
+### Hello World! I'm Elton👋😄
 
 - 🌱 I’m currently learning LARAVEL, and love it
 - 📫 How to reach me: eltonlima.contato@gmail.com
