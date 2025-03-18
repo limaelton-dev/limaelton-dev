@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning full Javascript and yours frameworks, and love it
 - 📫 How to reach me: eltonlima.contato@gmail.com
-- 😄 Pronouns: He/Ele
-- ⚡ Fun fact: i love games but never owned a console
 
 <div>
   <a href="https://www.linkedin.com/in/limaeltondev">
